@@ -1,0 +1,28 @@
+INFO - 2022-04-15 02:08:13,238: The response condition is reached
+INFO - 2022-04-15 02:09:29,533: The True response condition is reached
+INFO - 2022-04-15 02:12:41,655: The False response condition is reached
+INFO - 2022-04-15 02:12:49,670: The True response condition is reached
+INFO - 2022-04-15 02:15:31,803: The False response condition is reached
+ERROR - 2022-04-15 02:21:18,108: [Errno 2] No such file or directory: ''
+INFO - 2022-04-15 02:21:18,108: The True response condition is reached
+INFO - 2022-04-15 02:21:26,780: The False response condition is reached
+ERROR - 2022-04-15 03:08:08,502: Text.get() missing 1 required positional argument: 'index1'
+ERROR - 2022-04-15 03:08:12,856: Text.get() missing 1 required positional argument: 'index1'
+ERROR - 2022-04-15 03:29:38,724: 'charmap' codec can't decode byte 0x90 in position 80: character maps to <undefined>
+ERROR - 2022-04-15 03:29:48,202: 'Logger' object is not callable
+ERROR - 2022-04-15 03:29:53,721: 'charmap' codec can't decode byte 0x90 in position 80: character maps to <undefined>
+ERROR - 2022-04-15 03:31:12,562: 'charmap' codec can't decode byte 0x90 in position 80: character maps to <undefined>
+ERROR - 2022-04-16 13:05:41,397: [Errno 2] No such file or directory: 'About Edithor.txt'
+ERROR - 2022-04-16 13:05:50,404: [Errno 2] No such file or directory: ''
+ERROR - 2022-04-16 13:05:55,784: [Errno 2] No such file or directory: 'About Edithor.txt'
+ERROR - 2022-04-16 15:44:28,968: 'charmap' codec can't decode byte 0x90 in position 80: character maps to <undefined>
+ERROR - 2022-04-16 15:44:32,753: 'charmap' codec can't decode byte 0x90 in position 80: character maps to <undefined>
+ERROR - 2022-04-16 15:44:38,948: 'charmap' codec can't decode byte 0x90 in position 80: character maps to <undefined>
+INFO - 2022-04-17 14:32:02,535: The False response condition is reached
+ERROR - 2022-04-17 14:32:32,316: [Errno 2] No such file or directory: ''
+ERROR - 2022-04-17 14:34:52,289: [Errno 2] No such file or directory: ''
+INFO - 2022-04-17 14:56:45,801: The False response condition is reached
+ERROR - 2022-04-17 15:41:15,534: [Errno 2] No such file or directory: ''
+ERROR - 2022-04-17 15:48:48,465: [Errno 2] No such file or directory: 'About Edithor.txt'
+ERROR - 2022-04-17 15:48:52,425: [Errno 2] No such file or directory: 'About Edithor.txt'
+ERROR - 2022-04-17 15:49:53,902: [Errno 2] No such file or directory: 'About Edithor.txt'

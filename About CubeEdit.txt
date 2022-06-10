@@ -1,0 +1,36 @@
+
+--------W E L C O M E------TO------CubeEdit-------PROUDLY--MADE--WITH--PYTHON--AND--LOVE----------------
+
+Dear esteemed user, 
+We at elytes developers are very happy that you chose our editor. And with this ectastic happiness have we choosen to tell you about this wonderful ediTHOR. This includes detailed explanation of already existing features as well as some other ones that will be added very soon all at your request.
+
+--File Menu--
+
+--Edit Menu--
+
+--Format Menu--
+
+--Veiw Menu--
+
+--Help Menu--
+
+
+We hope that the above informations are quite simple and educative at the same time. We hope you had no troubles getting the much needed information you need. But if you still have some troubles navigating, then we will love to hear from you through the below channels.
+
+--Contact us
+
+e-mail us at cubeedit@elytestech. or you can as well call us directly. 
+phone:(+234)8123405594 -- NGN
+
+You can as well visit our interactive website : www.elytestech.ng/cubeedit/
+
+For recommendations and suggestions please contact us through any of the listed channels of communications whether in writing or via calls as we would be very happy to listen to suggestions,recommendations and even critisms from you our esteemed user.
+
+--Customer services--
+email: customer@cubeedit.elytestech.ng or info@cubeedit.elytestech.ng
+
+-- call: 01-23332212(Toll free) or 08123095594
+
+--Contributors--
+
+Kolawole Andrew 'Kaduna' - Lead developer
